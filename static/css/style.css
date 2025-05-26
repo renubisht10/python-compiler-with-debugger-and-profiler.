@@ -1,0 +1,10 @@
+body {
+    background-color: #1a202c;
+    color: #e2e8f0;
+}
+#codeEditor {
+    resize: none;
+}
+#output, #debugger, #profiler {
+    font-family: 'Courier New', Courier, monospace;
+}    
