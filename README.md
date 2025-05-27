@@ -38,5 +38,5 @@ Follow these steps to set up the Online Python Compiler locally:
 ## Usage
 1. Open the Online Python Compiler in your web browser.
 2. Write your Python code in the provided editor.
-3. Click on the **Compile** button to compile your code.
+3. Click on the *Compile* button to compile your code.
 4. Click on the **Run** button to execute your code and view the output
