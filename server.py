@@ -44,9 +44,9 @@ def run_code():
     output = execute_python(code)
     return jsonify({'output': output})
 
-# ----------------------------
+# --------------------------
 # ROUTE: DEBUG PYTHON CODE
-# ----------------------------
+# --------------------------
 @app.route('/debug', methods=['POST'])
 def debug_code():
     data = request.get_json()
